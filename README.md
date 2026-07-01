@@ -18,7 +18,7 @@ Thirteen live products today — the trade-contractor suite is complete, with mo
 
 #### Ringer — Lead Capture · Text, Chat & Voice
 [![Ringer](ringer.png)](https://ringer.earlinglabs.com)
-AI answers texts, web chat, and phone calls 24/7, qualifies the job, and books the visit on your calendar. AI voice receptionist picks up calls you can't get to and texts you every detail. Built for HVAC, plumbing, roofing, remodeling, and more.
+AI answers texts, web chat, and phone calls 24/7, qualifies the job, and books the visit on your calendar. AI voice receptionist picks up calls you can't get to and texts you every detail.
 
 ---
 
@@ -42,7 +42,7 @@ Sends the final bill with change orders, add-ons, and materials adjustments bake
 
 #### Receipts — Expense Capture
 [![Receipts](receipts.png)](https://receipts.earlinglabs.com)
-Snap a receipt — Claude Vision extracts vendor, amount, date, category, and payment method with confidence ratings per field. Export to CSV at tax time. The end of the shoebox of crumpled paper.
+Snap a receipt — Claude Vision extracts vendor, amount, date, category, and payment method with confidence ratings per field. Export to CSV at tax time.
 
 ---
 
@@ -66,7 +66,7 @@ Plain-language insight into how the business is doing — win rate, revenue, mos
 
 #### Crew — Roster & Crew Management
 [![Crew](crew.png)](https://crew.earlinglabs.com)
-Everyone who works for you in one place — employees and subcontractors. Tracks compliance documents (insurance, licenses), warns before they expire, assigns workers to jobs, and logs hours.
+Everyone who works for you in one place — employees and subcontractors. Tracks compliance documents, warns before they expire, assigns workers to jobs, and logs hours.
 
 ---
 
@@ -78,13 +78,13 @@ Plan the day's drive. Import stops from Scheduler, set a depot, and Routes order
 
 #### Designer — AI Before/After Visual Selling
 [![Designer](designer.png)](https://designer.earlinglabs.com)
-Snap the before photo — Designer renders a before/after preview of the finished job while you're selling it. Customer can swap colors, fixtures, and finishes while the price updates in step, wired directly to your estimate. Pairs with Estimator.
+Snap the before photo — Designer renders a before/after preview of the finished job while you're selling it. Customer swaps colors, fixtures, and finishes while the price updates in step, wired to your estimate.
 
 ---
 
 #### Bookkeeper — AI Bookkeeping
 [![Bookkeeper](bookkeeper.png)](https://bookkeeper.earlinglabs.com)
-Connect your business bank and AI sorts every transaction into the right tax category — income, materials, fuel, tools, subs. Pulls receipts from Earling Labs Receipts or CSV import. Replaces QuickBooks for the solo contractor.
+Connect your business bank and AI sorts every transaction into the right tax category. Pulls receipts from Earling Labs Receipts or CSV import. Replaces QuickBooks for the solo contractor.
 
 ---
 
@@ -98,9 +98,9 @@ Manage your Google Business Profile, draft and schedule Google posts with AI, an
 
 | Product | Category | What It Does |
 |---|---|---|
-| **Receptionist** | AI Voice Receptionist | Standalone AI that answers calls 24/7, qualifies the job, books it into your schedule, and texts you the details. Works alone or alongside Ringer for full voice-and-text coverage. |
-| **Closer** | AI Lead Reactivation | Puts your existing leads and past customers back to work. AI runs follow-up on cold quotes, old customers, and seasonal service reminders by text and email, then books the ones who bite. |
-| **Trading Platform** | AI Trading Research | An AI co-pilot for active traders. Real-time research, pre-trade gut-checks, multi-horizon quantile forecasts (the Earling Labs Predictor, integrated), personal pattern detection, and brokerage-aware risk discipline. Built by a trader, for traders. Not a signal service. |
+| **Receptionist** | AI Voice Receptionist | Standalone AI that answers calls 24/7, qualifies the job, books it into your schedule, and texts you the details. Works alone or alongside Ringer. |
+| **Closer** | AI Lead Reactivation | Puts your existing leads and past customers back to work. AI runs follow-up on cold quotes, old customers, and seasonal reminders, then books the ones who bite. |
+| **Trading Platform** | AI Trading Research | An AI co-pilot for active traders. Real-time research, pre-trade gut-checks, multi-horizon quantile forecasts, personal pattern detection, and brokerage-aware risk discipline. Built by a trader, for traders. Not a signal service. |
 
 ---
 
@@ -110,40 +110,40 @@ One suite, three tiers. Flat pricing — everything in your tier included, no pe
 
 ### Starter — The Solo Operator
 - Full lead-to-cash pipeline: Ringer, Estimator, Scheduler, Invoicer, Receipts, Booster
-- Permits & inspections tracking
-- Everything to run the business from a single place
-
-### Pro — Busy Shops, Real Volume
-- Everything in Starter
-- **Jobs** — job costing, change orders, documents, cross-job view
-- **Designer** — AI before/after visual selling
-- **Reporter** — plain-language business insights
-- **Bookkeeper** — AI bank-feed categorization
-
-### Crew — When You Have People
-- Everything in Pro
-- Multiple users with roles and permissions
-- **Crew** — roster, compliance tracking, time logs
-- **Routes** — GPS routing for multi-job days
-- **Marketer** — local SEO and Google Business Profile
-- No per-user fees at any tier
-
-> Pricing and sign-up open once Earling Labs is taking customers.
-
----
-
-## About
-
-Earling Labs is an independent software company headquartered in Bloomington, Minnesota. Built by an operator, for operators. No VC pressure. No feature bloat. No quarterly roadmap theater. An AI-native suite that handles the back-office work the big platforms overcharge for — at a fraction of the cost.
-
-- **Founded:** 2026
-- **Headquartered:** Bloomington, MN
-- **Entity:** Earling Labs LLC
-- **Products Live:** 13
-- **In Development:** 3
-- **Contact:** support@earlinglabs.com
-- **Site:** [earlinglabs.com](https://earlinglabs.com)
-
----
-
-*© 2026 Earling Labs LLC. All rights reserved.*
+- - Permits & inspections tracking
+  - - Everything to run the business from a single place
+   
+    - ### Pro — Busy Shops, Real Volume
+    - - Everything in Starter
+      - - **Jobs** — job costing, change orders, documents, cross-job view
+        - - **Designer** — AI before/after visual selling
+          - - **Reporter** — plain-language business insights
+            - - **Bookkeeper** — AI bank-feed categorization
+             
+              - ### Crew — When You Have People
+              - - Everything in Pro
+                - - Multiple users with roles and permissions
+                  - - **Crew** — roster, compliance tracking, time logs
+                    - - **Routes** — GPS routing for multi-job days
+                      - - **Marketer** — local SEO and Google Business Profile
+                        - - No per-user fees at any tier
+                         
+                          - > Pricing and sign-up open once Earling Labs is taking customers.
+                            >
+                            > ---
+                            >
+                            > ## About
+                            >
+                            > Earling Labs is an independent software company headquartered in Bloomington, Minnesota. Built by an operator, for operators. No VC pressure. No feature bloat. No quarterly roadmap theater. An AI-native suite that handles the back-office work the big platforms overcharge for — at a fraction of the cost.
+                            >
+                            > - **Founded:** 2026
+                            > - - **Headquartered:** Bloomington, MN
+                            >   - - **Entity:** Earling Labs LLC
+                            >     - - **Products Live:** 13
+                            >       - - **In Development:** 3
+                            >         - - **Contact:** support@earlinglabs.com
+                            >           - - **Site:** [earlinglabs.com](https://earlinglabs.com)
+                            >            
+                            >             - ---
+                            >
+                            > *© 2026 Earling Labs LLC. All rights reserved.*
